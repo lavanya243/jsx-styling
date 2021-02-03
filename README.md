@@ -1,2 +1,2 @@
-# jsx_styling
+# jsx styling
 Created with CodeSandbox
